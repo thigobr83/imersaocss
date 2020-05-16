@@ -29,7 +29,8 @@ a:hover {
 
 .site-subtitle, 
 .site-title {
-	color: whitesmoke;
+	color: green;
+	--color: whitesmoke;
 	text-align: center;
 }
 
